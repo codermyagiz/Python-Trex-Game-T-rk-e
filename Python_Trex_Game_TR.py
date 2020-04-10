@@ -39,4 +39,4 @@ def main():
    
 main()                               #Program çalıştırılır.                                                                                                                                                                                                                                                                                                                   
 
-#Not: İnternetteki birçok kaynaktan yararlanılmıştır. Thanks to "The PC Geek".
+#Not: İnternetteki birçok kaynaktan yararlanılmıştır.
