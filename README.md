@@ -20,3 +20,11 @@ Daha sonra gerekli olan kütüphaneleri indirmek için:
 Bu kısmı en kısa sürede dolduracağım.
 
 *#Not: Projeyi yaparken internetteki birçok kaynaktan yararlanılmıştır.*
+*#Not2: Projenin tamamı bana ait değildir.*
+
+https://www.youtube.com/channel/UCu2tUcvNeknPxRN6jhyk6gA (The PC GEEK)
+https://www.geeksforgeeks.org
+https://github.com/sikozonpc/T-Rex-Runner-Game-Bot
+https://github.com/warisali2/dino-bot/blob/master/dino-bot.py
+
+Ayrıca Readme.md dosyasını yazarken Musab Kılıç'ın [Microbike](https://github.com/musabkilic/MicroBike) projesinden yararlandım.
