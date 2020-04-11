@@ -1,3 +1,4 @@
+
 # Python Trex Game Turkce
 
 Python Trex Game, Google Chrome'da internete bağlı olmadığınızda oynadığımız dinozor oyunu. 
@@ -18,7 +19,8 @@ Daha sonra gerekli olan kütüphaneleri indirmek için:
 İşte burası biraz karmaşık eğer bot sizin cihazınızda düzgünce çalışmazsa sizin kendi bilgisayarınız için gerekli değerleri ve koordinatları kendiniz girmeniz gerekiyor.
 
 Bu kısmı en kısa sürede dolduracağım.
-##Kaynaklar
+
+## Kaynaklar
 
 *#Not: Projeyi yaparken internetteki birçok kaynaktan yararlanılmıştır.*
 *#Not2: Projenin tamamı bana ait değildir.*
