@@ -15,6 +15,8 @@ Eğer sizde Python yüklü değil ise [bu linkten indirebilirsin.](https://www.p
 Daha sonra gerekli olan kütüphaneleri indirmek için:
 
     pip3 install -r requirements.txt
+    
+[![Python Trex Game Required Libraries](https://img.youtube.com/vi/lNEC1I2PHD8/0.jpg)](https://www.youtube.com/watch?v=lNEC1I2PHD8)
 ## Kullanım
 İşte burası biraz karmaşık eğer bot sizin cihazınızda düzgünce çalışmazsa sizin kendi bilgisayarınız için gerekli değerleri ve koordinatları kendiniz girmeniz gerekiyor.
 
