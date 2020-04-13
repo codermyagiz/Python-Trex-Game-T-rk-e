@@ -37,6 +37,10 @@ pip install -U -q -r requirements.txt
 
 Bu kısmı en kısa sürede dolduracağım.
 
+
+## Uyarı:
+Projede kullandığım İmageGrab modülü sadece windows ve macOs'de kullanılabilir. Linux'ta çalışmaz. Bu nedenle Proje sadece Windows ve macOs'de çalışıyor.
+
 ## Kaynaklar
 
 _#Not: Projeyi yaparken internetteki birçok kaynaktan yararlanılmıştır._ _#Not2: Projenin tamamı bana ait değildir._
